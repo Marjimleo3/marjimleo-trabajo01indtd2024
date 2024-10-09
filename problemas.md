@@ -17,7 +17,6 @@ numéricos viene dada por la siguiente tabla:
 Clara y Pedro están considerando cambiar su plan de telefonía móvil y se enfrentan a tres opciones de tarifas ofrecidas por la misma compañía. Sin embargo, no están seguros de cuál es la mejor opción, ya que la decisión puede variar mucho de mes a mes, lo que introduce incertidumbre en la decisión.
 
 Las tarifas disponibles son las siguientes:
-
 1. Tarifa Básica:
 - Precio: 10 euros al mes.
 - Datos incluidos: 2 GB de internet.
@@ -33,7 +32,7 @@ Las tarifas disponibles son las siguientes:
 - Datos incluidos: Datos ilimitados (sin cargos adicionales por uso extra).
   
 Uso mensual esperado:
-Clara y Pedro no están seguros de cuántos datos usarán al mes, pero consideran los siguientes escenarios posibles basados en su historial de uso:
-Escenario bajo: Usarán 5 GB en total.
-Escenario moderado: Usarán 15 GB en total.
-Escenario alto: Usarán 25 GB en total.
+Clara y Pedro no están seguros de cuántos datos usarán al mes, pero consideran los siguientes **escenarios** posibles basados en su historial de uso:
+- Escenario bajo: Usarán 5 GB en total.
+- Escenario moderado: Usarán 15 GB en total.
+- Escenario alto: Usarán 25 GB en total.
