@@ -9,4 +9,6 @@ y su resolución se llevará a cabo con la función R que devuelve la resolució
 en una única tabla.
 
 ## Características
-Todo ello se realizará en dos documentos separados, en uno de ellos aparecerán los enunciados de los problemas (problemas.md), y en el otro la resolución de los mismos (trabajoIndividual01.R o trabajoIndividual01.rmd)
+Todo ello se realizará en dos documentos separados, en uno de ellos aparecerán los enunciados de los problemas (problemas.md), y en el otro la resolución de los mismos (trabajoIndividual01.R o trabajoIndividual01.rmd).
+
+También resaltar que el documento 'teoriadecision_funciones_incertidumbre' es necesario para solucionar los problemas.
