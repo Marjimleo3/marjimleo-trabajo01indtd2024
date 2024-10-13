@@ -12,3 +12,5 @@ en una única tabla.
 Todo ello se realizará en dos documentos separados, en uno de ellos aparecerán los enunciados de los problemas (problemas.md), y en el otro la resolución de los mismos (trabajoIndividual01.R o trabajoIndividual01.rmd).
 
 También resaltar que el documento 'teoriadecision_funciones_incertidumbre' es necesario para solucionar los problemas.
+
+*Nota. Este trabajo se ha realizado a partir del proyecto trabajoIndividual01.Rproj
